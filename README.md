@@ -1,5 +1,5 @@
 # non-deterministic-source
-Metacircular evaluator for the non-deterministic [Source](https://sicp.comp.nus.edu.sg/source/)  4.3 programming language. <br />
+Metacircular evaluator for the non-deterministic [Source](https://sicp.comp.nus.edu.sg/source/) 4.3 programming language with John McCarthy's `amb` operator for ambiguous choice. <br />
 Implementation is in: [evaluator.js](evaluator.js)
 
 ## Run using `parse_and_eval`
